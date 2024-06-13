@@ -28,7 +28,7 @@ a) -Berechnung des Prozesskostensatzes
 b) -Datenmodellierung in Excel
    -Index-und Vergelichsfunktion
    -WENNFEHLER, XVERWEIS (Produktkosten), SVERWEIS (Produktionskosten)
-   -Berechnung des Deckungsbetrags (Tebellenblatt DB1)
+   -Berechnung des Deckungsbetrags (Tabellenblatt DB1)
      
      
 Aufgabe 4) Äquivalenzziffernrechnung & Solver
